@@ -3,7 +3,7 @@
 This repository contains the Bounded Model Checking implementation described in the paper "Lightweight Online Learning for Sets of Related 
 Problems in Automated Reasoning"
 
-The implementation here can be used to reproduce the results in the paper.
+The results in the paper can be reproduced using this version https://github.com/anwu1219/sdsl/releases/tag/fmcad23.
 
 ## Requirements
 
