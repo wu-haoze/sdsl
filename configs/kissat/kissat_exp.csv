@@ -1,0 +1,13 @@
+ands,1,1,0,1
+bumpreasonsrate,10,1,1,10
+chrono,1,1,0,1
+eliminateint,500,1,50,500
+eliminateocclim,2e3,1,20,2e3
+forwardeffort,100,1,100,200
+ifthenelse,1,1,0,1
+probeint,100,1,10,100
+rephaseint,1e3,1,100,1e3
+stable,1,1,0,1
+substituteeffort,10,1,10,20
+subsumeocclim,1e3,1,10,1e3
+vivifyeffort,100,1,100,200
