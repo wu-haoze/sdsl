@@ -51,6 +51,7 @@ To run it without sdsl:
 For debugging purpose and also for examining the effect of sdsl in real time, we also added a **shadow** mode which 
 will solve each query using the default solving strategy as well as the learned solving strategy and print out
 the runtime comparison. This mode can be triggered by the ``--shadow`` flag:
+
 ``./scripts/run.py benchmarks/all_unknown/arbitrated_top_n2_w128_d64_e0.btor2  --sampling-budget 120 --shadow``
 
 As described in the paper, there are several configurable input parameters.
