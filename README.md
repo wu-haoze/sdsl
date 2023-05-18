@@ -1,4 +1,4 @@
-# Self-Driven Strategy-Learning
+# Self-Driven Strategy Learning
 
 This repository contains the Bounded Model Checking implementation described in the paper "Lightweight Online Learning for Sets of Related 
 Problems in Automated Reasoning"
