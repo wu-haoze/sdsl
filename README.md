@@ -1,7 +1,7 @@
 # Self-Driven Strategy Learning
 
-This repository contains the Bounded Model Checking implementation described in the paper "Lightweight Online Learning for Sets of Related 
-Problems in Automated Reasoning"
+This repository contains the Bounded Model Checking implementation described in the paper [Lightweight Online Learning for Sets of Related 
+Problems in Automated Reasoning](https://arxiv.org/abs/2305.11087)
 
 The results in the paper can be reproduced using this version https://github.com/anwu1219/sdsl/releases/tag/fmcad23.
 
